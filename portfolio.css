@@ -5,5 +5,10 @@ body {
 img
  {width: 50%;
  	border-radius: 8%;
- 	padding: 20px;}
+ 	padding: 20px;
+ }
+
+ h1{color:blue;}
+
+ h2{color:magenta;}
 
